@@ -1,0 +1,5 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="activity" class="com.xiaomi.market.ui.JoinActivity">
+  <intent-filter>
+    <action name="android.intent.action.VIEW" />
+  </intent-filter>
+</prescription>
